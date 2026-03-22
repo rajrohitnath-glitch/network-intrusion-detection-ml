@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score
+XGBoost,80.4,69.54,96.99,81.0
+Decision Tree,79.04,67.97,97.12,79.97
+SVM,78.14,66.76,98.07,79.45
+Random Forest,77.34,66.14,97.14,78.69
+KNN,76.57,65.24,97.62,78.21
